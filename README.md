@@ -2,6 +2,7 @@
 
 Description:
 This project is a simple console-based Hotel Management System implemented in C. The application simulates a restaurant ordering system for a fictional hotel, "Hotel Taj," allowing users to place orders from a predefined menu of biryanis.
+
 Platform - Turbo c++
 
 Key Features:
